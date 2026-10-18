@@ -50,12 +50,12 @@ Length: 13
 - Repo + short demo + Canvas
 
 ## Rubric (100)
+
 | Criterion | Pts |
 |-----------|----:|
-| Runs correctly on a supported path | 40 |
-| Meets prompt requirements | 30 |
-| String treated as data | 15 |
-| GitHub + short demo video | 15 |
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Scope fence
 No `char[]` required. No regex. Two `cin >>` fields are safer than mixing `getline` this week.
